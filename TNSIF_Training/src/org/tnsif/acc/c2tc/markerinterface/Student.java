@@ -11,7 +11,7 @@ public class Student implements Registration {
 		this.fees=fees;
 		
 		this.course=course;
-	}
+	
 }
 		
 //		public void setId(int id) {
@@ -38,4 +38,5 @@ public class Student implements Registration {
 //	public String getCourse() {
 //		return course;
 //	}
+}
 		

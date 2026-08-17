@@ -1,7 +1,7 @@
 package org.tnsif.acc.c2tc.javabasics;
 
 public class FibonacciSeries {
-	public class Fibonacci {
+	    class Fibonacci {
 	    public static void main(String[] args) {
 
 	        int n = 10;
