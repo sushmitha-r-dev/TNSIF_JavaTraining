@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.scannerclass;
+package org.tnsif.acc.c2tc.scannerclass_bufferreader;
 import java.util.Scanner;
 
 public class ScannerCharDemo {
